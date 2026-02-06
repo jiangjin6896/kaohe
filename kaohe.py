@@ -1,5 +1,4 @@
 import csv
-
 # 打开CSV文件，变量名用f（合法且常用）
 with open('task2.csv', 'r', encoding='utf-8') as f:
     # 创建CSV读取器
